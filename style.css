@@ -16,10 +16,10 @@
 }*/
 :root {
     --primario: #fff;
-    --fondo: #ffb3c8; /*#c5eaff;/*#ffebf2; */
+    --fondo: #c5eaff;/*#ffebf2; */
     --fondo-sobre: #ffe3ed; 
-    --solapa-sobre: #f783ac;
-    --cuerpo-sobre: #f783ac;/*#ffc1d1; */
+    --solapa-sobre: #7dcefd; 
+    --cuerpo-sobre: #81D7FC;/*#ffc1d1; */
     --sombra: rgba(0, 0, 0, 0.2);
     --texto: #003049; 
     --corazon: #ff477e; 
